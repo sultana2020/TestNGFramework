@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<title>TestNG Report</title>
+<style type="text/css">table {margin-bottom:10px;border-collapse:collapse;empty-cells:show}th,td {border:1px solid #009;padding:.25em .5em}th {vertical-align:bottom}td {vertical-align:top}table a {font-weight:bold}.stripe td {background-color: #E6EBF9}.num {text-align:right}.passedodd td {background-color: #3F3}.passedeven td {background-color: #0A0}.skippedodd td {background-color: #DDD}.skippedeven td {background-color: #CCC}.failedodd td,.attn {background-color: #F33}.failedeven td,.stripe .attn {background-color: #D00}.stacktrace {white-space:pre;font-family:monospace}.totop {font-size:85%;text-align:center;border-bottom:2px solid #000}.invisible {display:none}</style>
+</head>
+<body>
+<table>
+<tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
+<tr><th colspan="7">Parallel Testing Suite</th></tr>
+<tr><td><a href="#t0">Parallel Tests</a></td><td class="num">2</td><td class="num">0</td><td class="num attn">2</td><td class="num">313,107</td><td></td><td></td></tr>
+</table>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Parallel Testing Suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Parallel Tests &#8212; failed</th></tr><tr class="failedeven"><td rowspan="2">tests.ParallelExecution</td><td><a href="#m0">edgeBrowser</a></td><td rowspan="1">1594585830724</td><td rowspan="1">1508</td></tr><tr class="failedeven"><td><a href="#m1">internetExpBrowser</a></td><td rowspan="1">1594585830724</td><td rowspan="1">313066</td></tr><tr><th colspan="4">Parallel Tests &#8212; passed</th></tr><tr class="passedeven"><td rowspan="2">tests.ParallelExecution</td><td><a href="#m2">chromeBrowser</a></td><td rowspan="1">1594585830724</td><td rowspan="1">8581</td></tr><tr class="passedeven"><td><a href="#m3">fireFoxBrowser</a></td><td rowspan="1">1594585830724</td><td rowspan="1">8583</td></tr></tbody>
+</table>
+<h2>Parallel Tests</h2><h3 id="m0">tests.ParallelExecution#edgeBrowser</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">io.github.bonigarcia.wdm.WebDriverManagerException: io.github.bonigarcia.wdm.WebDriverManagerException: MicrosoftWebDriver.exe should be pre-installed in an elevated command prompt executing: dism /Online /Add-Capability /CapabilityName:Microsoft.WebDriver~~~~0.0.1.0
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:725)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:548)
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:260)
+	at tests.ParallelExecution.edgeBrowser(ParallelExecution.java:46)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: io.github.bonigarcia.wdm.WebDriverManagerException: MicrosoftWebDriver.exe should be pre-installed in an elevated command prompt executing: dism /Online /Add-Capability /CapabilityName:Microsoft.WebDriver~~~~0.0.1.0
+	at io.github.bonigarcia.wdm.WebDriverManager.checkPreInstalledVersion(WebDriverManager.java:607)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:508)
+	... 15 more
+... Removed 10 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m1">tests.ParallelExecution#internetExpBrowser</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.TimeoutException: Timed out waiting for page to load.
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;DESKTOP-8UMRB5T&apos;, ip: &apos;192.168.1.237&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_241&apos;
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.edgechromium: false, ie.edgepath: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:10257/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: fa21c9c5-3178-47ce-b9d6-08575109115c
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:277)
+	at tests.ParallelExecution.internetExpBrowser(ParallelExecution.java:39)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+... Removed 14 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m2">tests.ParallelExecution#chromeBrowser</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m3">tests.ParallelExecution#fireFoxBrowser</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+</body>
+</html>

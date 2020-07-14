@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="3" name="Failed suite [Tek school Data Driven Framework]">
+  <parameter name="password" value="welcome1"/>
+  <parameter name="userName" value="student@test.com"/>
+  <listeners>
+    <listener class-name="utilities.TestNGListeners"/>
+  </listeners>
+  <test thread-count="5" verbose="3" name="Login to Hotel Page(failed)">
+    <classes>
+      <class name="tests.CreateAccount">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="createAccount"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- tests.CreateAccount -->
+    </classes>
+  </test> <!-- Login to Hotel Page(failed) -->
+</suite> <!-- Failed suite [Tek school Data Driven Framework] -->

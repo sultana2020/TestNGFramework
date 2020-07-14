@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Failed suite [Default suite]]">
+  <parameter name="password" value="param-val-not-found"/>
+  <parameter name="userName" value="param-val-not-found"/>
+  <test thread-count="5" name="Default test(failed)(failed)">
+    <classes>
+      <class name="tests.HotelLogin">
+        <methods>
+          <include name="loginToHotelPage"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- tests.HotelLogin -->
+    </classes>
+  </test> <!-- Default test(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Default suite]] -->

@@ -1,0 +1,400 @@
+2020-07-02 20:50:47,320 - Logger_file -INFO - Browser opened successfully
+2020-07-02 20:50:47,985 - Logger_file -INFO - user clicked on Sign in
+2020-07-02 20:50:48,079 - Logger_file -INFO - user entered email address
+2020-07-02 20:50:48,152 - Logger_file -INFO - user entered password
+2020-07-02 20:50:48,685 - Logger_file -INFO - user clicked on sign in button
+2020-07-02 20:50:49,666 - Logger_file -INFO - Browser closed
+2020-07-02 20:52:11,165 - Logger_file -INFO - Browser opened successfully
+2020-07-02 20:52:11,923 - Logger_file -INFO - user clicked on Sign in
+2020-07-02 20:52:12,044 - Logger_file -INFO - user entered email address
+2020-07-02 20:52:12,136 - Logger_file -INFO - user entered password
+2020-07-02 20:52:12,710 - Logger_file -INFO - user clicked on sign in button
+2020-07-02 20:52:22,901 - Logger_file -INFO - Browser closed
+2020-07-02 20:57:18,936 - Logger_file -INFO - Browser opened successfully
+2020-07-02 20:57:19,654 - Logger_file -INFO - user clicked on Sign in
+2020-07-02 20:57:19,771 - Logger_file -INFO - user entered email address
+2020-07-02 20:57:19,845 - Logger_file -INFO - user entered password
+2020-07-02 20:57:20,494 - Logger_file -INFO - Browser closed
+2020-07-02 20:58:44,725 - Logger_file -INFO - Browser opened successfully
+2020-07-02 20:58:45,401 - Logger_file -INFO - user clicked on Sign in
+2020-07-02 20:58:45,506 - Logger_file -INFO - user entered email address
+2020-07-02 20:58:45,589 - Logger_file -INFO - user entered password
+2020-07-02 20:58:46,251 - Logger_file -INFO - user clicked on sign in button
+2020-07-02 20:58:52,226 - Logger_file -INFO - Browser closed
+2020-07-02 21:03:23,150 - Logger_file -INFO - Browser opened successfully
+2020-07-02 21:03:23,813 - Logger_file -INFO - user clicked on Sign in
+2020-07-02 21:03:23,892 - Logger_file -INFO - user entered email address
+2020-07-02 21:03:23,956 - Logger_file -INFO - user entered password
+2020-07-02 21:03:24,631 - Logger_file -INFO - user clicked on sign in button
+2020-07-02 21:03:30,602 - Logger_file -INFO - Browser closed
+2020-07-02 21:03:56,596 - Logger_file -INFO - Browser opened successfully
+2020-07-02 21:03:57,280 - Logger_file -INFO - user clicked on Sign in
+2020-07-02 21:03:57,359 - Logger_file -INFO - user entered email address
+2020-07-02 21:03:57,426 - Logger_file -INFO - user entered password
+2020-07-02 21:03:58,094 - Logger_file -INFO - user clicked on sign in button
+2020-07-02 21:04:04,041 - Logger_file -INFO - Browser closed
+2020-07-02 21:26:17,296 - Logger_file -INFO - Browser opened successfully
+2020-07-02 21:26:17,980 - Logger_file -INFO - user clicked on Sign in
+2020-07-02 21:26:18,087 - Logger_file -INFO - user entered email address
+2020-07-02 21:26:18,165 - Logger_file -INFO - user entered password
+2020-07-02 21:26:18,860 - Logger_file -INFO - user clicked on sign in button
+2020-07-02 21:26:24,833 - Logger_file -INFO - Browser closed
+2020-07-02 21:26:33,633 - Logger_file -INFO - Browser opened successfully
+2020-07-02 21:26:34,254 - Logger_file -INFO - Browser closed
+2020-07-02 21:27:39,787 - Logger_file -INFO - Browser opened successfully
+2020-07-02 21:27:40,445 - Logger_file -INFO - user clicked on Sign in
+2020-07-02 21:27:40,542 - Logger_file -INFO - user entered email address
+2020-07-02 21:27:40,615 - Logger_file -INFO - user entered password
+2020-07-02 21:27:41,302 - Logger_file -INFO - user clicked on sign in button
+2020-07-02 21:27:47,267 - Logger_file -INFO - Browser closed
+2020-07-02 21:39:02,024 - Logger_file -INFO - Browser opened successfully
+2020-07-02 21:39:02,755 - Logger_file -INFO - user clicked on Sign in
+2020-07-02 21:39:02,850 - Logger_file -INFO - user entered email address
+2020-07-02 21:39:02,929 - Logger_file -INFO - user entered password
+2020-07-02 21:39:03,644 - Logger_file -INFO - user clicked on sign in button
+2020-07-02 21:39:09,615 - Logger_file -INFO - Browser closed
+2020-07-02 21:40:47,198 - Logger_file -INFO - Browser opened successfully
+2020-07-02 21:40:47,860 - Logger_file -INFO - user clicked on Sign in
+2020-07-02 21:40:47,963 - Logger_file -INFO - user entered email address
+2020-07-02 21:40:48,045 - Logger_file -INFO - user entered password
+2020-07-02 21:40:48,796 - Logger_file -INFO - user clicked on sign in button
+2020-07-02 21:40:54,742 - Logger_file -INFO - Browser closed
+2020-07-07 19:23:46,517 - Logger_file -INFO - Browser opened successfully
+2020-07-07 19:23:47,247 - Logger_file -INFO - user clicked on Sign in
+2020-07-07 19:23:47,361 - Logger_file -INFO - user entered email address
+2020-07-07 19:23:47,479 - Logger_file -INFO - user entered password
+2020-07-07 19:23:48,133 - Logger_file -INFO - user clicked on sign in button
+2020-07-07 19:23:54,117 - Logger_file -INFO - Browser closed
+2020-07-07 19:24:01,918 - Logger_file -INFO - Browser opened successfully
+2020-07-07 19:24:02,557 - Logger_file -INFO - user clicked on Sign in
+2020-07-07 19:24:02,663 - Logger_file -INFO - user entered email address from Parameters
+2020-07-07 19:24:02,769 - Logger_file -INFO - user entered password from Parameters
+2020-07-07 19:24:03,435 - Logger_file -INFO - user clicked on sign in button
+2020-07-07 19:24:09,465 - Logger_file -INFO - Browser closed
+2020-07-07 19:31:54,796 - Logger_file -INFO - Browser opened successfully
+2020-07-07 19:31:55,572 - Logger_file -INFO - user clicked on Sign in
+2020-07-07 19:31:55,671 - Logger_file -INFO - user entered email address from Parameters
+2020-07-07 19:31:55,751 - Logger_file -INFO - user entered password from Parameters
+2020-07-07 19:31:56,469 - Logger_file -INFO - user clicked on sign in button
+2020-07-07 19:32:02,538 - Logger_file -INFO - Browser closed
+2020-07-07 19:32:11,015 - Logger_file -INFO - Browser opened successfully
+2020-07-07 19:32:11,928 - Logger_file -INFO - user clicked on Sign in
+2020-07-07 19:32:12,029 - Logger_file -INFO - user entered email address
+2020-07-07 19:32:12,107 - Logger_file -INFO - user entered password
+2020-07-07 19:32:12,775 - Logger_file -INFO - user clicked on sign in button
+2020-07-07 19:32:18,740 - Logger_file -INFO - Browser closed
+2020-07-07 19:32:27,751 - Logger_file -INFO - Browser opened successfully
+2020-07-07 19:32:27,752 - Logger_file -INFO - This is just sample test 4
+2020-07-07 19:32:28,367 - Logger_file -INFO - Browser closed
+2020-07-07 19:32:40,194 - Logger_file -INFO - Browser opened successfully
+2020-07-07 19:32:40,194 - Logger_file -INFO - This is just sample test 3
+2020-07-07 19:32:40,832 - Logger_file -INFO - Browser closed
+2020-07-07 19:36:36,809 - Logger_file -INFO - Browser opened successfully
+2020-07-07 19:36:36,815 - Logger_file -INFO - This Test case will execute before priority 1
+2020-07-07 19:36:37,439 - Logger_file -INFO - Browser closed
+2020-07-07 19:36:46,129 - Logger_file -INFO - Browser opened successfully
+2020-07-07 19:36:46,130 - Logger_file -INFO - This Test case will execute before all test cases without priority number
+2020-07-07 19:36:46,738 - Logger_file -INFO - Browser closed
+2020-07-07 19:36:56,012 - Logger_file -INFO - Browser opened successfully
+2020-07-07 19:36:56,790 - Logger_file -INFO - user clicked on Sign in
+2020-07-07 19:36:56,903 - Logger_file -INFO - user entered email address from Parameters
+2020-07-07 19:36:56,982 - Logger_file -INFO - user entered password from Parameters
+2020-07-07 19:36:57,892 - Logger_file -INFO - user clicked on sign in button
+2020-07-07 19:37:03,892 - Logger_file -INFO - Browser closed
+2020-07-07 19:37:14,099 - Logger_file -INFO - Browser opened successfully
+2020-07-07 19:37:15,378 - Logger_file -INFO - user clicked on Sign in
+2020-07-07 19:37:15,487 - Logger_file -INFO - user entered email address
+2020-07-07 19:37:15,561 - Logger_file -INFO - user entered password
+2020-07-07 19:37:16,606 - Logger_file -INFO - user clicked on sign in button
+2020-07-07 19:37:22,557 - Logger_file -INFO - Browser closed
+2020-07-07 19:37:30,622 - Logger_file -INFO - Browser opened successfully
+2020-07-07 19:37:30,623 - Logger_file -INFO - This is just sample test 4
+2020-07-07 19:37:31,242 - Logger_file -INFO - Browser closed
+2020-07-07 19:37:39,085 - Logger_file -INFO - Browser opened successfully
+2020-07-07 19:37:39,088 - Logger_file -INFO - This is just sample test 3
+2020-07-07 19:37:39,698 - Logger_file -INFO - Browser closed
+2020-07-07 19:43:58,891 - Logger_file -INFO - Browser opened successfully
+2020-07-07 19:43:59,606 - Logger_file -INFO - user clicked on Sign in
+2020-07-07 19:43:59,788 - Logger_file -INFO - user entered email address from Parameters
+2020-07-07 19:43:59,863 - Logger_file -INFO - user entered password from Parameters
+2020-07-07 19:44:00,615 - Logger_file -INFO - user clicked on sign in button
+2020-07-07 19:44:06,590 - Logger_file -INFO - Browser closed
+2020-07-07 22:50:32,477 - Logger_file -INFO - Browser opened successfully
+2020-07-07 22:50:33,414 - Logger_file -INFO - user clicked on Sign in
+2020-07-07 22:50:33,651 - Logger_file -INFO - user entered email address from Parameters
+2020-07-07 22:50:33,856 - Logger_file -INFO - user entered password from Parameters
+2020-07-07 22:50:34,003 - Logger_file -INFO - user clicked on sign in button
+2020-07-07 22:50:40,255 - Logger_file -INFO - Browser closed
+2020-07-07 22:53:23,543 - Logger_file -INFO - Browser opened successfully
+2020-07-07 22:53:24,510 - Logger_file -INFO - user clicked on Sign in
+2020-07-07 22:53:24,747 - Logger_file -INFO - user entered email address from Parameters
+2020-07-07 22:53:24,976 - Logger_file -INFO - user entered password from Parameters
+2020-07-07 22:53:25,123 - Logger_file -INFO - user clicked on sign in button
+2020-07-07 22:53:31,402 - Logger_file -INFO - Browser closed
+2020-07-07 22:58:45,701 - Logger_file -INFO - Browser opened successfully
+2020-07-07 22:58:46,585 - Logger_file -INFO - user clicked on Sign in
+2020-07-07 22:58:46,824 - Logger_file -INFO - user entered email address from Parameters
+2020-07-07 22:58:46,986 - Logger_file -INFO - user entered password from Parameters
+2020-07-07 22:58:47,834 - Logger_file -INFO - user clicked on sign in button
+2020-07-07 22:58:54,068 - Logger_file -INFO - Browser closed
+2020-07-07 22:59:25,629 - Logger_file -INFO - Browser opened successfully
+2020-07-07 22:59:26,552 - Logger_file -INFO - user clicked on Sign in
+2020-07-07 22:59:26,827 - Logger_file -INFO - user entered email address from Parameters
+2020-07-07 22:59:27,030 - Logger_file -INFO - user entered password from Parameters
+2020-07-07 22:59:27,202 - Logger_file -INFO - user clicked on sign in button
+2020-07-07 22:59:33,473 - Logger_file -INFO - Browser closed
+2020-07-07 23:01:48,104 - Logger_file -INFO - Browser opened successfully
+2020-07-07 23:01:49,038 - Logger_file -INFO - user clicked on Sign in
+2020-07-07 23:01:49,287 - Logger_file -INFO - user entered email address
+2020-07-07 23:01:49,456 - Logger_file -INFO - user entered password
+2020-07-07 23:01:50,347 - Logger_file -INFO - user clicked on sign in button
+2020-07-07 23:01:56,554 - Logger_file -INFO - Browser closed
+2020-07-07 23:04:06,164 - Logger_file -INFO - Browser opened successfully
+2020-07-07 23:04:07,047 - Logger_file -INFO - user clicked on Sign in
+2020-07-07 23:04:07,302 - Logger_file -INFO - user entered email address
+2020-07-07 23:04:07,449 - Logger_file -INFO - user entered password
+2020-07-07 23:04:08,253 - Logger_file -INFO - user clicked on sign in button
+2020-07-07 23:04:14,466 - Logger_file -INFO - Browser closed
+2020-07-07 23:04:24,420 - Logger_file -INFO - Browser opened successfully
+2020-07-07 23:04:25,265 - Logger_file -INFO - user clicked on Sign in
+2020-07-07 23:04:25,461 - Logger_file -INFO - user entered email address from Parameters
+2020-07-07 23:04:25,598 - Logger_file -INFO - user entered password from Parameters
+2020-07-07 23:04:26,369 - Logger_file -INFO - user clicked on sign in button
+2020-07-07 23:04:32,585 - Logger_file -INFO - Browser closed
+2020-07-07 23:07:47,752 - Logger_file -INFO - Browser opened successfully
+2020-07-07 23:07:48,622 - Logger_file -INFO - user clicked on Sign in
+2020-07-07 23:07:48,837 - Logger_file -INFO - user entered email address
+2020-07-07 23:07:49,016 - Logger_file -INFO - user entered password
+2020-07-07 23:07:49,859 - Logger_file -INFO - user clicked on sign in button
+2020-07-07 23:07:56,061 - Logger_file -INFO - Browser closed
+2020-07-07 23:08:04,292 - Logger_file -INFO - Browser opened successfully
+2020-07-07 23:08:05,087 - Logger_file -INFO - user clicked on Sign in
+2020-07-07 23:08:05,307 - Logger_file -INFO - user entered email address from Parameters
+2020-07-07 23:08:05,523 - Logger_file -INFO - user entered password from Parameters
+2020-07-07 23:08:05,677 - Logger_file -INFO - user clicked on sign in button
+2020-07-07 23:08:11,905 - Logger_file -INFO - Browser closed
+2020-07-07 23:13:00,610 - Logger_file -INFO - Browser opened successfully
+2020-07-07 23:13:01,508 - Logger_file -INFO - user clicked on Sign in
+2020-07-07 23:13:01,744 - Logger_file -INFO - user entered email address
+2020-07-07 23:13:01,893 - Logger_file -INFO - user entered password
+2020-07-07 23:13:02,818 - Logger_file -INFO - user clicked on sign in button
+2020-07-07 23:13:09,041 - Logger_file -INFO - Browser closed
+2020-07-07 23:14:17,748 - Logger_file -INFO - Browser opened successfully
+2020-07-07 23:14:18,693 - Logger_file -INFO - user clicked on Sign in
+2020-07-07 23:14:18,939 - Logger_file -INFO - user entered email address
+2020-07-07 23:14:19,097 - Logger_file -INFO - user entered password
+2020-07-07 23:14:20,133 - Logger_file -INFO - user clicked on sign in button
+2020-07-07 23:14:26,385 - Logger_file -INFO - Browser closed
+2020-07-07 23:14:34,630 - Logger_file -INFO - Browser opened successfully
+2020-07-07 23:14:35,537 - Logger_file -INFO - user clicked on Sign in
+2020-07-07 23:14:35,769 - Logger_file -INFO - user entered email address from Parameters
+2020-07-07 23:14:35,995 - Logger_file -INFO - user entered password from Parameters
+2020-07-07 23:14:36,143 - Logger_file -INFO - user clicked on sign in button
+2020-07-07 23:14:42,365 - Logger_file -INFO - Browser closed
+2020-07-09 19:35:40,999 - Logger_file -INFO - Browser opened successfully
+2020-07-09 19:35:42,011 - Logger_file -INFO - User click on sign in
+2020-07-09 19:35:42,279 - Logger_file -INFO - User click on sign in
+2020-07-09 19:35:42,393 - Logger_file -INFO - User click on sign in
+2020-07-09 19:36:13,199 - Logger_file -INFO - Browser closed
+2020-07-09 19:38:26,964 - Logger_file -INFO - Browser opened successfully
+2020-07-09 19:38:27,878 - Logger_file -INFO - User click on sign in
+2020-07-09 19:38:28,108 - Logger_file -INFO - User click on sign in
+2020-07-09 19:38:28,219 - Logger_file -INFO - User click on sign in
+2020-07-09 19:39:27,595 - Logger_file -INFO - Browser opened successfully
+2020-07-09 19:39:28,457 - Logger_file -INFO - User click on sign in
+2020-07-09 19:39:28,698 - Logger_file -INFO - User click on sign in
+2020-07-09 19:39:28,808 - Logger_file -INFO - User click on sign in
+2020-07-09 19:41:31,828 - Logger_file -INFO - Browser opened successfully
+2020-07-09 19:41:32,668 - Logger_file -INFO - User click on sign in
+2020-07-09 19:41:32,908 - Logger_file -INFO - User click on sign in
+2020-07-09 19:41:33,017 - Logger_file -INFO - User click on sign in
+2020-07-09 19:44:54,961 - Logger_file -INFO - Browser opened successfully
+2020-07-09 19:44:55,950 - Logger_file -INFO - User click on sign in
+2020-07-09 19:44:56,241 - Logger_file -INFO - User click on sign in
+2020-07-09 19:44:56,400 - Logger_file -INFO - User click on sign in
+2020-07-09 19:44:57,459 - Logger_file -INFO - User click on sign in
+2020-07-09 19:44:58,647 - Logger_file -INFO - User click on sign in
+2020-07-09 19:44:59,304 - Logger_file -INFO - User click on sign in
+2020-07-09 19:45:00,629 - Logger_file -INFO - User click on sign in
+2020-07-09 19:45:01,621 - Logger_file -INFO - Browser closed
+2020-07-09 20:00:28,594 - Logger_file -INFO - Start of Execution
+2020-07-09 20:00:44,560 - Logger_file -INFO - End of Execution
+2020-07-09 20:00:53,662 - Logger_file -INFO - Start of Execution
+2020-07-09 20:01:04,091 - Logger_file -INFO - Browser opened successfully
+2020-07-09 20:01:04,092 - Logger_file -INFO - Test execution started
+2020-07-09 20:01:05,014 - Logger_file -INFO - User click on sign in
+2020-07-09 20:01:05,279 - Logger_file -INFO - User enter email
+2020-07-09 20:01:05,401 - Logger_file -INFO - User click on create Account
+2020-07-09 20:01:06,368 - Logger_file -INFO - User click on tilte
+2020-07-09 20:01:07,214 - Logger_file -INFO - User enter first , last name....
+2020-07-09 20:01:07,725 - Logger_file -INFO - User select date of birth
+2020-07-09 20:01:08,976 - Logger_file -INFO - User click on register
+2020-07-09 20:01:08,977 - Logger_file -INFO - Test was passed successfully
+2020-07-09 20:01:09,788 - Logger_file -INFO - Browser closed
+2020-07-09 20:01:09,792 - Logger_file -INFO - End of Execution
+2020-07-09 20:01:19,529 - Logger_file -INFO - Start of Execution
+2020-07-09 20:01:30,068 - Logger_file -INFO - Browser opened successfully
+2020-07-09 20:01:30,069 - Logger_file -INFO - Test execution started
+2020-07-09 20:01:31,020 - Logger_file -INFO - User click on sign in
+2020-07-09 20:01:31,274 - Logger_file -INFO - User enter email
+2020-07-09 20:01:31,395 - Logger_file -INFO - User click on create Account
+2020-07-09 20:02:01,476 - Logger_file -INFO - Test was failed 
+2020-07-09 20:02:01,477 - Logger_file -INFO - method name: createAccount
+2020-07-09 20:02:02,702 - Logger_file -INFO - Browser closed
+2020-07-09 20:02:02,706 - Logger_file -INFO - End of Execution
+2020-07-09 20:17:21,070 - Logger_file -INFO - Start of Execution
+2020-07-09 20:17:21,081 - Logger_file -INFO - Start of Execution
+2020-07-09 20:17:37,285 - Logger_file -INFO - End of Execution
+2020-07-09 20:17:37,339 - Logger_file -INFO - End of Execution
+2020-07-09 20:19:12,028 - Logger_file -INFO - Start of Execution
+2020-07-09 20:19:12,038 - Logger_file -INFO - Start of Execution
+2020-07-09 20:19:23,390 - Logger_file -INFO - Browser opened successfully
+2020-07-09 20:19:23,391 - Logger_file -INFO - Test execution started
+2020-07-09 20:19:23,398 - Logger_file -INFO - Test execution started
+2020-07-09 20:19:24,266 - Logger_file -INFO - User click on sign in
+2020-07-09 20:19:24,550 - Logger_file -INFO - User enter email
+2020-07-09 20:19:24,669 - Logger_file -INFO - User click on create Account
+2020-07-09 20:19:26,366 - Logger_file -INFO - User click on tilte
+2020-07-09 20:19:27,249 - Logger_file -INFO - User enter first , last name....
+2020-07-09 20:19:27,740 - Logger_file -INFO - User select date of birth
+2020-07-09 20:19:28,876 - Logger_file -INFO - User click on register
+2020-07-09 20:19:28,878 - Logger_file -INFO - Test was passed successfully
+2020-07-09 20:19:29,518 - Logger_file -INFO - Test was passed successfully
+2020-07-09 20:19:30,741 - Logger_file -INFO - Browser closed
+2020-07-09 20:19:30,746 - Logger_file -INFO - End of Execution
+2020-07-09 20:19:30,793 - Logger_file -INFO - End of Execution
+2020-07-09 22:08:12,960 - Logger_file -INFO - Start of Execution
+2020-07-09 22:08:29,822 - Logger_file -INFO - End of Execution
+2020-07-09 22:08:39,910 - Logger_file -INFO - Start of Execution
+2020-07-09 22:08:51,239 - Logger_file -INFO - Browser opened successfully
+2020-07-09 22:08:51,241 - Logger_file -INFO - Test execution started
+2020-07-09 22:08:52,193 - Logger_file -INFO - User click on sign in
+2020-07-09 22:08:53,061 - Logger_file -INFO - User enter email
+2020-07-09 22:08:53,190 - Logger_file -INFO - User click on create Account
+2020-07-09 22:09:23,256 - Logger_file -INFO - Test was failed 
+2020-07-09 22:09:23,258 - Logger_file -INFO - method name: createAccount
+2020-07-09 22:09:24,540 - Logger_file -INFO - Browser closed
+2020-07-09 22:09:24,543 - Logger_file -INFO - End of Execution
+2020-07-09 22:10:15,505 - Logger_file -INFO - Start of Execution
+2020-07-09 22:10:27,142 - Logger_file -INFO - Browser opened successfully
+2020-07-09 22:10:27,143 - Logger_file -INFO - Test execution started
+2020-07-09 22:10:28,199 - Logger_file -INFO - User click on sign in
+2020-07-09 22:10:28,974 - Logger_file -INFO - User enter email
+2020-07-09 22:10:29,099 - Logger_file -INFO - User click on create Account
+2020-07-09 22:10:30,715 - Logger_file -INFO - User click on tilte
+2020-07-09 22:10:31,582 - Logger_file -INFO - User enter first , last name....
+2020-07-09 22:10:32,091 - Logger_file -INFO - User select date of birth
+2020-07-09 22:10:33,852 - Logger_file -INFO - User click on register
+2020-07-09 22:10:33,854 - Logger_file -INFO - Test was passed successfully
+2020-07-09 22:10:35,262 - Logger_file -INFO - Browser closed
+2020-07-09 22:10:35,266 - Logger_file -INFO - End of Execution
+2020-07-09 22:16:16,817 - Logger_file -INFO - Browser opened successfully
+2020-07-09 22:16:17,667 - Logger_file -INFO - Browser closed
+2020-07-09 22:16:26,433 - Logger_file -INFO - Browser opened successfully
+2020-07-09 22:16:29,865 - Logger_file -INFO - Browser closed
+2020-07-10 09:01:19,947 - Logger_file -INFO - Start of Execution
+2020-07-10 09:01:36,216 - Logger_file -INFO - End of Execution
+2020-07-10 09:01:48,169 - Logger_file -INFO - Start of Execution
+2020-07-10 09:01:58,865 - Logger_file -INFO - Browser opened successfully
+2020-07-10 09:01:58,867 - Logger_file -INFO - Test execution started
+2020-07-10 09:01:59,875 - Logger_file -INFO - User clicked on Sign in
+2020-07-10 09:02:00,271 - Logger_file -INFO - User entered: final.test@gmail.com
+2020-07-10 09:02:00,412 - Logger_file -INFO - User clicked on Create Account
+2020-07-10 09:02:01,534 - Logger_file -INFO - User selected Title: mr
+2020-07-10 09:02:02,425 - Logger_file -INFO - User filled personal information
+2020-07-10 09:02:02,960 - Logger_file -INFO - User filled DOB information 
+2020-07-10 09:02:04,354 - Logger_file -INFO - User clicked on Register Account
+2020-07-10 09:02:04,358 - Logger_file -INFO - Test was failed 
+2020-07-10 09:02:04,358 - Logger_file -INFO - method name: createAccount
+2020-07-10 09:02:05,745 - Logger_file -INFO - Browser closed
+2020-07-10 09:02:05,748 - Logger_file -INFO - End of Execution
+2020-07-12 15:13:33,663 - Logger_file -INFO - Start of Execution
+2020-07-12 15:13:33,670 - Logger_file -INFO - Start of Execution
+2020-07-12 15:13:47,276 - Logger_file -INFO - Browser opened successfully
+2020-07-12 15:13:47,278 - Logger_file -INFO - Test Execution Started
+2020-07-12 15:13:47,297 - Logger_file -INFO - Test Execution Started
+2020-07-12 15:13:48,276 - Logger_file -INFO - user clicked on Sign in
+2020-07-12 15:13:48,513 - Logger_file -INFO - user entered email address
+2020-07-12 15:13:48,661 - Logger_file -INFO - user entered password
+2020-07-12 15:13:49,487 - Logger_file -INFO - user clicked on sign in button
+2020-07-12 15:13:54,999 - Logger_file -INFO - Test was passed successfully
+2020-07-12 15:13:55,000 - Logger_file -INFO - method name: loginToHotelPage
+2020-07-12 15:13:55,011 - Logger_file -INFO - Test was passed successfully
+2020-07-12 15:13:55,012 - Logger_file -INFO - method name: loginToHotelPage
+2020-07-12 15:13:55,778 - Logger_file -INFO - Browser closed
+2020-07-12 15:14:07,208 - Logger_file -INFO - Browser opened successfully
+2020-07-12 15:14:07,210 - Logger_file -INFO - Test Execution Started
+2020-07-12 15:14:07,211 - Logger_file -INFO - Test Execution Started
+2020-07-12 15:14:08,461 - Logger_file -INFO - User clicked on Sign in
+2020-07-12 15:14:08,770 - Logger_file -INFO - User entered: report.test@gmail.com
+2020-07-12 15:14:08,865 - Logger_file -INFO - User clicked on Create Account
+2020-07-12 15:14:09,980 - Logger_file -INFO - User selected Title: mr
+2020-07-12 15:14:10,938 - Logger_file -INFO - User filled personal information
+2020-07-12 15:14:11,546 - Logger_file -INFO - User filled DOB information 
+2020-07-12 15:14:12,902 - Logger_file -INFO - User clicked on Register Account
+2020-07-12 15:14:12,904 - Logger_file -INFO - Test was failed
+2020-07-12 15:14:12,904 - Logger_file -INFO - method name: createAccount
+2020-07-12 15:14:13,598 - Logger_file -INFO - Test was failed
+2020-07-12 15:14:13,599 - Logger_file -INFO - method name: createAccount
+2020-07-12 15:14:14,824 - Logger_file -INFO - Browser closed
+2020-07-12 15:14:26,804 - Logger_file -INFO - Browser opened successfully
+2020-07-12 15:14:26,805 - Logger_file -INFO - Test Execution Started
+2020-07-12 15:14:26,807 - Logger_file -INFO - Test Execution Started
+2020-07-12 15:14:28,525 - Logger_file -INFO - user clicked on Sign in
+2020-07-12 15:14:28,788 - Logger_file -INFO - user entered email address from Parameters
+2020-07-12 15:14:28,957 - Logger_file -INFO - user entered password from Parameters
+2020-07-12 15:14:29,767 - Logger_file -INFO - user clicked on sign in button
+2020-07-12 15:14:35,295 - Logger_file -INFO - Test was passed successfully
+2020-07-12 15:14:35,296 - Logger_file -INFO - method name: loginWithParameters
+2020-07-12 15:14:35,298 - Logger_file -INFO - Test was passed successfully
+2020-07-12 15:14:35,298 - Logger_file -INFO - method name: loginWithParameters
+2020-07-12 15:14:36,060 - Logger_file -INFO - Browser closed
+2020-07-12 15:14:36,061 - Logger_file -INFO - End of Execution
+2020-07-12 15:14:36,524 - Logger_file -INFO - End of Execution
+2020-07-12 15:17:47,261 - Logger_file -INFO - Start of Execution
+2020-07-12 15:17:47,266 - Logger_file -INFO - Start of Execution
+2020-07-12 15:17:58,564 - Logger_file -INFO - Browser opened successfully
+2020-07-12 15:17:58,566 - Logger_file -INFO - Test Execution Started
+2020-07-12 15:17:58,582 - Logger_file -INFO - Test Execution Started
+2020-07-12 15:17:59,964 - Logger_file -INFO - user clicked on Sign in
+2020-07-12 15:18:00,230 - Logger_file -INFO - user entered email address
+2020-07-12 15:18:00,407 - Logger_file -INFO - user entered password
+2020-07-12 15:18:01,236 - Logger_file -INFO - user clicked on sign in button
+2020-07-12 15:18:06,771 - Logger_file -INFO - Test was passed successfully
+2020-07-12 15:18:06,772 - Logger_file -INFO - method name: loginToHotelPage
+2020-07-12 15:18:06,785 - Logger_file -INFO - Test was passed successfully
+2020-07-12 15:18:06,786 - Logger_file -INFO - method name: loginToHotelPage
+2020-07-12 15:18:07,604 - Logger_file -INFO - Browser closed
+2020-07-12 15:18:22,183 - Logger_file -INFO - Browser opened successfully
+2020-07-12 15:18:22,184 - Logger_file -INFO - Test Execution Started
+2020-07-12 15:18:22,186 - Logger_file -INFO - Test Execution Started
+2020-07-12 15:18:23,222 - Logger_file -INFO - User clicked on Sign in
+2020-07-12 15:18:23,617 - Logger_file -INFO - User entered: report.test@gmail.com
+2020-07-12 15:18:23,769 - Logger_file -INFO - User clicked on Create Account
+2020-07-12 15:18:53,833 - Logger_file -INFO - Test was failed
+2020-07-12 15:18:53,834 - Logger_file -INFO - method name: createAccount
+2020-07-12 15:18:54,423 - Logger_file -INFO - Test was failed
+2020-07-12 15:18:54,424 - Logger_file -INFO - method name: createAccount
+2020-07-12 15:18:56,805 - Logger_file -INFO - Browser closed
+2020-07-12 15:19:08,463 - Logger_file -INFO - Browser opened successfully
+2020-07-12 15:19:08,465 - Logger_file -INFO - Test Execution Started
+2020-07-12 15:19:08,466 - Logger_file -INFO - Test Execution Started
+2020-07-12 15:19:09,456 - Logger_file -INFO - user clicked on Sign in
+2020-07-12 15:19:09,685 - Logger_file -INFO - user entered email address from Parameters
+2020-07-12 15:19:09,828 - Logger_file -INFO - user entered password from Parameters
+2020-07-12 15:19:10,735 - Logger_file -INFO - user clicked on sign in button
+2020-07-12 15:19:16,231 - Logger_file -INFO - Test was passed successfully
+2020-07-12 15:19:16,232 - Logger_file -INFO - method name: loginWithParameters
+2020-07-12 15:19:16,233 - Logger_file -INFO - Test was passed successfully
+2020-07-12 15:19:16,233 - Logger_file -INFO - method name: loginWithParameters
+2020-07-12 15:19:17,000 - Logger_file -INFO - Browser closed
+2020-07-12 15:19:17,001 - Logger_file -INFO - End of Execution
+2020-07-12 15:19:17,444 - Logger_file -INFO - End of Execution
+2020-07-12 15:55:39,013 - Logger_file -INFO - This tilte is form chrome executionHotel
+2020-07-12 16:06:47,939 - Logger_file -INFO - This tilte is form chrome executionHotel
+2020-07-12 16:19:56,770 - Logger_file -INFO - This tilte is form chrome executionHotel
+2020-07-12 16:19:56,774 - Logger_file -INFO - This title is from firfox executionHotel
+2020-07-12 16:29:10,236 - Logger_file -INFO - This tilte is form chrome executionHotel
+2020-07-12 16:30:03,233 - Logger_file -INFO - This title is from firfox executionHotel
+2020-07-12 16:30:39,296 - Logger_file -INFO - This tilte is form chrome executionHotel
+2020-07-12 16:30:39,300 - Logger_file -INFO - This title is from firfox executionHotel
