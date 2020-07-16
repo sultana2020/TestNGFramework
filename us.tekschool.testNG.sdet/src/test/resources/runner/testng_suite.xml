@@ -16,7 +16,6 @@
 	 
 		<classes>
 			<class name="tests.HotelLogin"/>
-			<class name="tests.SmokeTest"/>
 			
  	</classes>
 	</test>
